@@ -7,21 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2097EE4D216449510052B4B8 /* BaseSlidingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE4C216449510052B4B8 /* BaseSlidingController.swift */; };
+		2097EE50216460EB0052B4B8 /* CustomMenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE4F216460EB0052B4B8 /* CustomMenuHeaderView.swift */; };
+		2097EE52216465300052B4B8 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE51216465300052B4B8 /* SpacerView.swift */; };
+		2097EE542165AAC50052B4B8 /* ProfileImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE532165AAC50052B4B8 /* ProfileImageView.swift */; };
+		2097EE562165B1F40052B4B8 /* MenuItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE552165B1F40052B4B8 /* MenuItemCell.swift */; };
+		2097EE5821694DAC0052B4B8 /* ListsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE5721694DAC0052B4B8 /* ListsController.swift */; };
+		2097EE5A2169510F0052B4B8 /* BookmarksController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE592169510F0052B4B8 /* BookmarksController.swift */; };
+		2097EE5C216D52680052B4B8 /* ChatroomsMenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE5B216D52670052B4B8 /* ChatroomsMenuController.swift */; };
+		2097EE5E216D56810052B4B8 /* ChatroomMenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE5D216D56810052B4B8 /* ChatroomMenuCell.swift */; };
+		2097EE60216D58660052B4B8 /* Extension+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE5F216D58660052B4B8 /* Extension+UIView.swift */; };
+		2097EE62216D65420052B4B8 /* ChatroomMenuContainerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2097EE61216D65420052B4B8 /* ChatroomMenuContainerController.swift */; };
 		20DF27B8215EE80200797810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DF27B7215EE80200797810 /* AppDelegate.swift */; };
-		20DF27BA215EE80200797810 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DF27B9215EE80200797810 /* ViewController.swift */; };
 		20DF27BD215EE80200797810 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20DF27BB215EE80200797810 /* Main.storyboard */; };
 		20DF27BF215EE80400797810 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20DF27BE215EE80400797810 /* Assets.xcassets */; };
 		20DF27C2215EE80400797810 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20DF27C0215EE80400797810 /* LaunchScreen.storyboard */; };
+		20DF27CB215EF2A200797810 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DF27CA215EF2A200797810 /* MenuController.swift */; };
+		20DF27CC215EF44F00797810 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DF27B9215EE80200797810 /* HomeController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2097EE4C216449510052B4B8 /* BaseSlidingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseSlidingController.swift; sourceTree = "<group>"; };
+		2097EE4F216460EB0052B4B8 /* CustomMenuHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMenuHeaderView.swift; sourceTree = "<group>"; };
+		2097EE51216465300052B4B8 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
+		2097EE532165AAC50052B4B8 /* ProfileImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileImageView.swift; sourceTree = "<group>"; };
+		2097EE552165B1F40052B4B8 /* MenuItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemCell.swift; sourceTree = "<group>"; };
+		2097EE5721694DAC0052B4B8 /* ListsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsController.swift; sourceTree = "<group>"; };
+		2097EE592169510F0052B4B8 /* BookmarksController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksController.swift; sourceTree = "<group>"; };
+		2097EE5B216D52670052B4B8 /* ChatroomsMenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatroomsMenuController.swift; sourceTree = "<group>"; };
+		2097EE5D216D56810052B4B8 /* ChatroomMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatroomMenuCell.swift; sourceTree = "<group>"; };
+		2097EE5F216D58660052B4B8 /* Extension+UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+UIView.swift"; sourceTree = "<group>"; };
+		2097EE61216D65420052B4B8 /* ChatroomMenuContainerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatroomMenuContainerController.swift; sourceTree = "<group>"; };
 		20DF27B4215EE80200797810 /* SlideOutMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideOutMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20DF27B7215EE80200797810 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		20DF27B9215EE80200797810 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		20DF27B9215EE80200797810 /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		20DF27BC215EE80200797810 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		20DF27BE215EE80400797810 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20DF27C1215EE80400797810 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20DF27C3215EE80400797810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20DF27CA215EF2A200797810 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +59,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2097EE4B216449390052B4B8 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				2097EE4C216449510052B4B8 /* BaseSlidingController.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		2097EE4E216460D80052B4B8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2097EE4F216460EB0052B4B8 /* CustomMenuHeaderView.swift */,
+				2097EE51216465300052B4B8 /* SpacerView.swift */,
+				2097EE532165AAC50052B4B8 /* ProfileImageView.swift */,
+				2097EE552165B1F40052B4B8 /* MenuItemCell.swift */,
+				2097EE5D216D56810052B4B8 /* ChatroomMenuCell.swift */,
+				2097EE5F216D58660052B4B8 /* Extension+UIView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		20DF27AB215EE80200797810 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +99,29 @@
 		20DF27B6215EE80200797810 /* SlideOutMenu */ = {
 			isa = PBXGroup;
 			children = (
+				2097EE4E216460D80052B4B8 /* Views */,
+				20DF27C9215EF28900797810 /* Controllers */,
 				20DF27B7215EE80200797810 /* AppDelegate.swift */,
-				20DF27B9215EE80200797810 /* ViewController.swift */,
 				20DF27BB215EE80200797810 /* Main.storyboard */,
 				20DF27BE215EE80400797810 /* Assets.xcassets */,
 				20DF27C0215EE80400797810 /* LaunchScreen.storyboard */,
 				20DF27C3215EE80400797810 /* Info.plist */,
 			);
 			path = SlideOutMenu;
+			sourceTree = "<group>";
+		};
+		20DF27C9215EF28900797810 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2097EE4B216449390052B4B8 /* Base */,
+				20DF27CA215EF2A200797810 /* MenuController.swift */,
+				20DF27B9215EE80200797810 /* HomeController.swift */,
+				2097EE5721694DAC0052B4B8 /* ListsController.swift */,
+				2097EE592169510F0052B4B8 /* BookmarksController.swift */,
+				2097EE5B216D52670052B4B8 /* ChatroomsMenuController.swift */,
+				2097EE61216D65420052B4B8 /* ChatroomMenuContainerController.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +195,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20DF27BA215EE80200797810 /* ViewController.swift in Sources */,
+				20DF27CB215EF2A200797810 /* MenuController.swift in Sources */,
+				2097EE562165B1F40052B4B8 /* MenuItemCell.swift in Sources */,
+				2097EE542165AAC50052B4B8 /* ProfileImageView.swift in Sources */,
+				2097EE5E216D56810052B4B8 /* ChatroomMenuCell.swift in Sources */,
 				20DF27B8215EE80200797810 /* AppDelegate.swift in Sources */,
+				2097EE52216465300052B4B8 /* SpacerView.swift in Sources */,
+				2097EE5C216D52680052B4B8 /* ChatroomsMenuController.swift in Sources */,
+				20DF27CC215EF44F00797810 /* HomeController.swift in Sources */,
+				2097EE50216460EB0052B4B8 /* CustomMenuHeaderView.swift in Sources */,
+				2097EE5821694DAC0052B4B8 /* ListsController.swift in Sources */,
+				2097EE4D216449510052B4B8 /* BaseSlidingController.swift in Sources */,
+				2097EE62216D65420052B4B8 /* ChatroomMenuContainerController.swift in Sources */,
+				2097EE5A2169510F0052B4B8 /* BookmarksController.swift in Sources */,
+				2097EE60216D58660052B4B8 /* Extension+UIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +355,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 89JY6GM8WJ;
 				INFOPLIST_FILE = SlideOutMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +373,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 89JY6GM8WJ;
 				INFOPLIST_FILE = SlideOutMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
